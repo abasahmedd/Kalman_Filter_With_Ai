@@ -49,9 +49,3 @@ This study explores the integration of artificial intelligence models with the E
 - `src/` – MATLAB and Python code for EKF and AI models *(coming soon)*
 - `data/` – Sample IMU dataset *(if shareable)*
 
-## 🧠 Keywords
-Kalman Filter, Extended Kalman Filter (EKF), Artificial Neural Network, IMU, Deep Learning, LSTM, GRU, Fuzzy Logic, UAVs
-
-## 📜 Citation
-If you use this work, please cite:
-
