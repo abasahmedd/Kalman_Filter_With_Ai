@@ -6,15 +6,7 @@ This repository contains the source materials and results for the research paper
 
 **"AI-Driven Signal Filtering for Enhanced Kalman Filter Performance in High-Noise Environments"**
 
-## 📌 Authors
-- **Abbas Ogal**  
-  Master's Student – Aeronautical Engineering  
-  Istanbul Gelisim University, Turkey  
-  Email: abbas.ogal@ogr.gelisim.edu.tr  
 
-- **Supervisor:** Asst. Prof. Peri Güneş  
-  Electrical & Electronics Engineering Department  
-  Gelisim University
 
 ## 🧠 Abstract
 This study explores the integration of artificial intelligence models with the Extended Kalman Filter (EKF) to improve signal estimation in high-noise environments such as UAV applications using IMU data. Multiple AI models (ANN, LSTM, GRU, BiLSTM, Fuzzy Logic) were tested to adaptively tune the Kalman filter, significantly reducing estimation error.
