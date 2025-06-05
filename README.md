@@ -24,6 +24,8 @@ This study explores the integration of artificial intelligence models with the E
    - Recurrent Neural Networks (RNN, LSTM, GRU)
    - Fuzzy Logic
 3. Compare models using RMSE, MSE, and processing time
+ ![image](https://github.com/user-attachments/assets/ff9cf8bf-2082-4e24-a7f8-42d8d1b34d69)
+
 
 ## 📊 Results
 
